@@ -6,7 +6,7 @@ An end-to-end data analytics project focused on subscription revenue performance
 
 [View the interactive Tableau dashboard](https://public.tableau.com/views/RakN_DA32_FP2/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-![Dashboard preview](C:\Users\Тарас\OneDrive\Робочий стіл\git\repositories\Subscription Revenue, Churn & Retention Analysis.png)
+![Dashboard preview](dashboard-preview.png)
 
 ## Project Objective
 
@@ -76,7 +76,7 @@ The SQL query creates a user-level monthly revenue dataset and calculates subscr
 
 The complete query is available here:
 
-[`sql/subscription_revenue_metrics.sql`](C:\Users\Тарас\OneDrive\Робочий стіл\git\repositories\subscription-revenue-metrics.sql)
+[`sql/subscription_revenue_metrics.sql`](subscription-revenue-metrics.sql)
 
 ## Dashboard Features
 
