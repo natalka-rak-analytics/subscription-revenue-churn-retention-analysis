@@ -6,7 +6,7 @@ An end-to-end data analytics project focused on subscription revenue performance
 
 [View the interactive Tableau dashboard](https://public.tableau.com/views/RakN_DA32_FP2/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-![Dashboard preview](dashboard-preview.png)
+![Dashboard preview](dashboard-preview.png.png)
 
 ## Project Objective
 
